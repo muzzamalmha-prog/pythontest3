@@ -1,0 +1,8 @@
+class6={"zayyan":96,"ahyan":94,"rayan":89,"aliyan":95,"musa":92}
+sum=0
+for i in class6:
+    sum =sum+class6[i]
+average=sum//5
+print("average= ",average)
+print("maximum score is of zayyan=96")
+print("minimum score is of rayan=89")
